@@ -8,7 +8,7 @@
 public class secretformula
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private int stuff;
 
     /**
      * Constructor for objects of class secretformula
@@ -16,7 +16,7 @@ public class secretformula
     public secretformula()
     {
         // initialise instance variables
-        x = 0;
+        stuff = 0;
     }
 
     /**
@@ -28,6 +28,6 @@ public class secretformula
     public int sampleMethod(int y)
     {
         // put your code here
-        return x + y;
+        return stuff + y;
     }
 }
